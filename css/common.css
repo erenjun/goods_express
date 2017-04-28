@@ -1,0 +1,22 @@
+.form-box{
+	width:100%;
+	height: 100%;
+	background: #fff;
+}
+.form-box .form-head{
+	padding:10px 0;
+}
+.form-box .form-title{
+	text-align: center;
+	color:#333;
+	font-size: 18px;
+	line-height: 30px;
+}
+.form-box .btn-cell{
+	width:100%;
+	margin-top:40px;
+	text-align: center;
+}
+.form-box .btn-cell button{
+	width: 80%;
+}
